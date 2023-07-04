@@ -18,6 +18,8 @@
 - Install via [Pip](https://pypi.org/project/pip/) or [Docker](https://www.docker.com/)
 - User log in/out, sign up, password reset via [django-allauth](https://github.com/pennersr/django-allauth)
 - install  django rest framework via: pip install djangorestframework
+- used psql as data base
+- added how to restrict access to portions of your APIs data
 ----
 
 
